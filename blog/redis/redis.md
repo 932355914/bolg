@@ -1,6 +1,6 @@
 #Redis基础
 ###redis缓存知识点
-![](/bolg/blob/master/image/redis/redis.jpeg)
+![](https://github.com/932355914/bolg/blob/master/image/redis/redis.jpeg)
 
 redis类型
 一、string: 是redis最常用最普通的类型 一般就是 set和get
